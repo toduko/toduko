@@ -2,9 +2,11 @@
 
 ## I'm a passionate web developer
 
-* I’m currently helping at [HackYourOwn](https://hackyourown.org)
-* I’m currently learning more front-end frameworks
-* I’m looking to contribute to open source
+### Currently:
+
+* helping at [HackYourOwn](https://hackyourown.org)
+* learning Spring
+* looking to contribute to open source
 
 ### Web Development Stack:
 

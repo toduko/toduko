@@ -5,7 +5,7 @@
 ### Currently:
 
 * helping at [HackYourOwn](https://hackyourown.org)
-* learning the Defold game engine
+* learning Android development
 * looking to contribute to open source
 
 ### Web Development Stack:

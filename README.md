@@ -12,5 +12,5 @@
 
 * C/C++
 * Python
-* Javascript
+* Javascript/Typescript
 * Java/Kotlin

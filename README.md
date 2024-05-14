@@ -6,8 +6,8 @@
 
 * :school: Majoring in Computer Science
 * :teacher: Teaching assistant @ [FMI Sofia University St. Kliment Ohridski](https://fmi.uni-sofia.bg)
-  - Languages, Automata, and Computability - [notes](https://raw.githubusercontent.com/toduko/languages-automata-and-computability/master/notes.pdf)
-  - Design and Analysis of Algorithms - [notes](https://github.com/toduko/design-and-analysis-of-algorithms)
+  - Languages, Automata, and Computability - [materials](https://github.com/toduko/languages-automata-and-computability)
+  - Design and Analysis of Algorithms - [materials](https://github.com/toduko/design-and-analysis-of-algorithms)
 
 ### Languages I am proficient in:
 

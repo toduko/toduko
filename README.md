@@ -8,6 +8,7 @@
 * :teacher: Teaching assistant @ [FMI Sofia University St. Kliment Ohridski](https://fmi.uni-sofia.bg)
   - Languages, Automata, and Computability - [materials](https://github.com/toduko/languages-automata-and-computability)
   - Design and Analysis of Algorithms - [materials](https://github.com/toduko/design-and-analysis-of-algorithms)
+  - Logic Programming
 
 ### Languages I am proficient in:
 

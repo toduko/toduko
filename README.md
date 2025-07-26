@@ -4,7 +4,7 @@
 
 ### 🚀 Currently:
 
-- 🎓 Pursuing a **Computer Science** degree (Final Year)
+- 🎓 **Bachelor of Computer Science** @ [FMI Sofia University St. Kliment Ohridski](https://fmi.uni-sofia.bg)
 - 💼 **Junior Software Engineer** @ [MBition](https://mbition.io/)
 
 ### 🎯 Teaching & Mentorship:
@@ -17,7 +17,7 @@ As a **Teaching Assistant** @ [FMI Sofia University St. Kliment Ohridski](https:
 
 ### 🛠️ Tech Stack:
 
-- **Languages:** C/C++, Python, JavaScript/TypeScript, Java/Kotlin
+- **Languages:** C/C++, Python, JavaScript/TypeScript, Java/Kotlin, Prolog, Haskell
 - **Interests:** Algorithms, Software Architecture, Problem Solving
 
-📫 Let's connect!
+### 📫 Let's connect!

@@ -6,7 +6,6 @@
 
 - 🎓 **Bachelor of Computer Science** @ [FMI Sofia University St. Kliment Ohridski](https://fmi.uni-sofia.bg)
 - 📚 **Studying Logic and Algorithms** @ [FMI Sofia University St. Kliment Ohridski](https://fmi.uni-sofia.bg)
-- 💼 **Junior Software Engineer** @ [MBition](https://mbition.io/)
 
 ### 🎯 Teaching & Mentorship:
 

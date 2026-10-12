@@ -13,7 +13,8 @@ As a **Teaching Assistant** @ [FMI Sofia University St. Kliment Ohridski](https:
 
 - **Languages, Automata, and Computability** (5 semesters) - [Materials](https://github.com/toduko/languages-automata-and-computability)
 - **Design and Analysis of Algorithms** (1 semester) - [Materials](https://github.com/toduko/design-and-analysis-of-algorithms)
-- **Logic Programming** (3 semesters) -  [Materials](https://github.com/toduko/logic-programming)
+- **Logic Programming** (3 semesters + 1 current) -  [Materials](https://github.com/toduko/logic-programming)
+- **Discrete Structures** (1 current)
 
 ### 🛠️ Tech Stack:
 

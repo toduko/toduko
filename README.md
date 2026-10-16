@@ -6,6 +6,7 @@
 
 - 🎓 **Bachelor of Computer Science** @ [FMI Sofia University St. Kliment Ohridski](https://fmi.uni-sofia.bg)
 - 📚 **Studying Logic and Algorithms** @ [FMI Sofia University St. Kliment Ohridski](https://fmi.uni-sofia.bg)
+  - Doing a thesis in **Set Theory**
 
 ### 🎯 Teaching & Mentorship:
 
@@ -13,8 +14,8 @@ As a **Teaching Assistant** @ [FMI Sofia University St. Kliment Ohridski](https:
 
 - **Languages, Automata, and Computability** (5 semesters) - [Materials](https://github.com/toduko/languages-automata-and-computability)
 - **Design and Analysis of Algorithms** (1 semester) - [Materials](https://github.com/toduko/design-and-analysis-of-algorithms)
-- **Logic Programming** (3 semesters + 1 current) -  [Materials](https://github.com/toduko/logic-programming)
-- **Discrete Structures** (1 current)
+- **Logic Programming** (3 semesters + 1 current) - [Materials](https://github.com/toduko/logic-programming)
+- **Discrete Structures** (1 current) - [Materials](https://github.com/toduko/discrete-structures)
 
 ### 🛠️ Tech Stack:
 
